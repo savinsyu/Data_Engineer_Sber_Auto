@@ -36,4 +36,5 @@ https://drive.google.com/drive/folders/10LlyVJeMvVKQJaHRWkeo2t3sqklPRLJd
 git clone https://github.com/savinsyu/Data_Engineer_Sber_Auto.git
 ```
 3. Переходим в папку Data_Engineer_Sber_Auto 
+4. Распаковываем [scripts.zip](scripts.zip)
 4. Запускаем файл [scripts.py](scripts.py), pipeline запуститься и будет работать всё время перезапуская job каждые 5 секунд.
